@@ -1,1 +1,1 @@
-eu sou teu pai voltei com o cigaro
+comedo de miojin com tang
