@@ -1,1 +1,1 @@
-comedo de miojin com tang
+comendo de miojin com tang
