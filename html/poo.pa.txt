@@ -1,0 +1,8 @@
+Defina o que é uma classe e o que é um objeto em programação orientada a objetos.
+R:É um conjunto de objetos com características em comum e o  objeto representa as coisas no mundo real, bem como conceitos abstratos com suas características e comportamentos específicos.
+
+Explique o que são atributos e métodos em uma classe. Dê exemplos simples.
+R: Atributos são as propriedades de um objeto. Métodos são as ações que um objeto pode realizar. Exemplos são nome, idade e peso são exemplos de atributos de objetos Pessoa. Cor, peso e modelo são possíveis atributos de objetos Carro.
+
+Explique o conceito de herança em programação orientada a objetos.
+R:  É um tipo de relacionamento entre classes que significa que uma classe é outra.

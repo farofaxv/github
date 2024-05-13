@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <header>
+        <img class="logomarca" src="img/logo.png" alt="logomarca">
+        <ul class="container_links_nav_header">
+            <li><a class="links_header" href="#"><i class='bx bxs-home'></i>Home</a></li>
+            <li><a class="links_header" href="sobre.html"><i class='bx bxs-help-circle'></i>sobre</a></li>
+            <li><a class="links_header" href="reservas.html"><i class='bx bxs-bell' ></i>Reservas</a></li>
+            <li><a class="links_header" href="ctt.html"><i class='bx bxs-phone' ></i>Contatos</a></li>
+        </ul>
+    </header>
+    <div class="container_foto_principal">
+        
+        <h1>Conheça este paraíso chamado Praia Deserta</h1>
+        <h3>"Aconchego, conforto simpatia e alto astral"</h3>
+        <a class="link_fotoprincipal" href="#">Saiba mais</a>
+    </div>
+    <div class="container_conheça">
+        <div class="texto_conheça">
+            <h1>Conheça o Hotel Paraíso</h1>
+            <p>Feche os olhos e imagine o paraíso. Um lugar em uma praia deserta onde você encontra paz,<br> tranquilidade, conforto e comodidade.</p>
+            <div class="hr">
+                <hr>
+            </div>
+        </div>
+        <div class="imagens_conheça">
+            <ul class="imagens">
+                <li class="small" style="background-image: url(img/itacare-01.jpg) ;"></li>
+                <li class="large" style="background-image: url(img/itacare-02.jpg) ;"></li>
+                <li class="large" style="background-image: url(img/itacare-03.jpg) ;"></li>
+                <li class="small" style="background-image: url(img/itacare-04.jpg) ;"></li>
+            </ul>
+        </div>
+        <div class="container_conheça_fundoverde">
+            <div class="texto_conheça2">
+                <h1>O único hotel em 50km de praiao</h1>
+                <p>Implantado em uma área completamente arborizada, o hotel paraíso é o único que tem 50 kilômetros de <br>isolamento. O mar é seu único companheiro e você terá as belezas da natureza.</p>
+                <div class="hr">
+                    <hr>
+                </div>
+                <div>
+                    <ul class="grid">
+                        <li>
+                            <i class='bx bxs-map-alt'></i>
+                            <h4>Localização</h4>
+                            <p>Localizada na costa leste do Estado Ceará. Praia Deserta tem refrescantes cachoeiras com trilhas para a mata Atlântica e praias belíssimas e totalmente deserta.</p>
+                        </li>
+                        <li>
+                            <i class='bx bxs-gift' ></i>
+                            <h4>Pacote de ofertas</h4>
+                            <p>Localizada na costa leste do Estado Ceará. Praia Deserta tem refrescantes cachoeiras com trilhas para a mata Atlântica e praias belíssimas e totalmente deserta.</p>
+                        </li>
+                        <li>
+                            <i class='bx bxs-home'></i>
+                            <h4>Acomodações</h4>
+                            <p>O hotel paraíso possui 29 unidades, divididas entre 11 chalés, 16 amplas suítes e 2 chalés familiar, todas com Tv a cabo, frigobar, além de varanda com rede.</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="Newsletter">
+            <h3>Newsletter</h3>
+                <p>Assine nossa newletter para se manter atualizado com os nossos serviços e a programação dos  eventos  que ocorrem no <b>Hotel Paraíso</b></p>
+                <div class="hr">
+                    <hr>
+                </div>
+                <div class="formulario">
+                    <form >
+                        <input type="email" placeholder="e-mail">
+                        <button>Cadastrar</button>
+                    </form>
+                </div>
+        </div>
+    </div>
+    <footer>
+        <ul class="redesociais">
+            <li>
+                <a href="#">
+                    <i class='bx bxl-facebook-circle'></i>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class='bx bxl-twitter' ></i>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class='bx bxl-instagram-alt' ></i>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class='bx bxl-snapchat' ></i>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class='bx bxl-pinterest' ></i>
+                </a>
+            </li>
+        </ul>
+        <p>Todos os direitos reservados - Hotel Paraíso <i class='bx bxs-copyright' ></i></p>
+    </footer>
+
+    
+</body>
+</html>

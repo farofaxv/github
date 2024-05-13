@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="pt-br">  
+ <head>
+    <title> Deu foi o crlh msm </title>
+    <meta charset="utf-8"
+ </head>
+  <body>
+    <p style="color:blueviolet;">e ela me chama de vida amor da minha vida </p>
+  </body>
+</html>
